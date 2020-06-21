@@ -11,8 +11,6 @@ URL:
 GET: https://reqres.in/api/users?page=2 [Exibir conteúdo]
 POST: https://reqres.in/api/users       [Add usuário]
 
-CLONAR PROJETO:
-git clone https://github.com/GabrielAlmeidaQA/avaliacao_inmetrics.git
 
 
 **Desafio Web Site**
